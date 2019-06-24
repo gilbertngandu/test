@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/DataLayer/obj
+/ServiceLayer/bin/Debug/netcoreapp2.1
+/ServiceLayer/obj
+/InvestecProject/bin/Debug/netcoreapp2.1
